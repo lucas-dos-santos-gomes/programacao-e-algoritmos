@@ -1,1 +1,214 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T04:24:37.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" version="21.0.2" etag="R4Lja6mL138J1TJlfAru" type="github"><diagram name="Página-1" id="P58mU9c-P4n3gaQWXchw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-06T04:39:19.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="qleveIkDCueVnaIKFqIJ" version="21.0.2" type="github">
+  <diagram name="Página-1" id="P58mU9c-P4n3gaQWXchw">
+    <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-3" target="OL7ZFpz6dahpd9CSGTHm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-3" target="OL7ZFpz6dahpd9CSGTHm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-3" value="Pneu está em &lt;br&gt;condições&lt;br&gt;&amp;nbsp;de uso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="189" width="119" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-5" target="OL7ZFpz6dahpd9CSGTHm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-5" value="Abrir o porta-malas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="129" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="103" as="sourcePoint" />
+            <mxPoint x="644" y="103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-8" target="OL7ZFpz6dahpd9CSGTHm-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-8" value="Pegar o pneu reserva e o macaco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="229" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-10" target="OL7ZFpz6dahpd9CSGTHm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-10" value="Fechar o porta-malas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="146" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-12" target="OL7ZFpz6dahpd9CSGTHm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-12" value="Colocar o macaco na posição" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="86" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-14" target="OL7ZFpz6dahpd9CSGTHm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-14" value="Guardar o pneu e o macaco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="386" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-16" target="OL7ZFpz6dahpd9CSGTHm-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-16" value="Fechar o porta-malas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="446" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-18" target="OL7ZFpz6dahpd9CSGTHm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-18" value="Colocar o pneu reserva" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="146" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-20" target="OL7ZFpz6dahpd9CSGTHm-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-20" value="Apertar os parafusos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="206" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-22" target="OL7ZFpz6dahpd9CSGTHm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-22" value="Abrir o porta-malas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="326" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-24" target="OL7ZFpz6dahpd9CSGTHm-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-24" value="Retirar o macaco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="266" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-26" target="OL7ZFpz6dahpd9CSGTHm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-26" value="Baixar o macaco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="206" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-28" target="OL7ZFpz6dahpd9CSGTHm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-28" value="Retirar o pneu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="146" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-30" target="OL7ZFpz6dahpd9CSGTHm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-30" value="Retirar os parafusos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="86" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-32" target="OL7ZFpz6dahpd9CSGTHm-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-32" value="Subir o macaco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="86" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-34" target="OL7ZFpz6dahpd9CSGTHm-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-34" value="Início" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="21" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-35" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="441" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-37" target="OL7ZFpz6dahpd9CSGTHm-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-37" value="Retirar o pneu para o descarte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="329" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-39" target="OL7ZFpz6dahpd9CSGTHm-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-39" value="Ir até uma loja ou site que venda pneu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="389" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-41" target="OL7ZFpz6dahpd9CSGTHm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-41" value="Comprar o pneu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="449" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-43" target="OL7ZFpz6dahpd9CSGTHm-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-43" value="Fechar o porta-malas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="329" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-45" target="OL7ZFpz6dahpd9CSGTHm-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-45" value="Descartar pneu em local apropriado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="389" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-47" target="OL7ZFpz6dahpd9CSGTHm-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-47" value="Pegar o pneu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="449" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-49" target="OL7ZFpz6dahpd9CSGTHm-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-49" value="Ir até o carro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="449" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-51" target="OL7ZFpz6dahpd9CSGTHm-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-51" value="Abrir porta-malas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="389" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-53" target="OL7ZFpz6dahpd9CSGTHm-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-53" value="Pegar o macaco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="329" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-55" target="OL7ZFpz6dahpd9CSGTHm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="406" y="224" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-178" target="OL7ZFpz6dahpd9CSGTHm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-178" target="OL7ZFpz6dahpd9CSGTHm-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-178" value="Existe pneu furado?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="226.5" y="1" width="89" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-181" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="21" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-182" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151" y="224" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-183" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="299" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-186" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="246" y="126" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-189" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="91" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-190" target="OL7ZFpz6dahpd9CSGTHm-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-190" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="556" y="289" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL7ZFpz6dahpd9CSGTHm-191" target="OL7ZFpz6dahpd9CSGTHm-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL7ZFpz6dahpd9CSGTHm-191" value="O carro está em codições de uso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="366" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
