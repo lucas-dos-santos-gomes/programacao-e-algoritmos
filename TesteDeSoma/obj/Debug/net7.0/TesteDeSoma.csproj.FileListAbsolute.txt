@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\bin\Debug\net7.0\TesteDeSoma.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\bin\Debug\net7.0\TesteDeSoma.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\bin\Debug\net7.0\TesteDeSoma.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\bin\Debug\net7.0\TesteDeSoma.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\bin\Debug\net7.0\TesteDeSoma.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\refint\TesteDeSoma.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\TesteDeSoma.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\TesteDeSoma\obj\Debug\net7.0\ref\TesteDeSoma.dll
