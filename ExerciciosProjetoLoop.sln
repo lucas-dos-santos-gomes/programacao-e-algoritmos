@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomarValores", "SomarValores\SomarValores.csproj", "{92832558-F688-4CB4-90CA-EED6C7C660C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{1DF02FE8-47FE-42C4-8062-6AD3D0E8C4D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{92832558-F688-4CB4-90CA-EED6C7C660C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92832558-F688-4CB4-90CA-EED6C7C660C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92832558-F688-4CB4-90CA-EED6C7C660C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF02FE8-47FE-42C4-8062-6AD3D0E8C4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF02FE8-47FE-42C4-8062-6AD3D0E8C4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF02FE8-47FE-42C4-8062-6AD3D0E8C4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF02FE8-47FE-42C4-8062-6AD3D0E8C4D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
