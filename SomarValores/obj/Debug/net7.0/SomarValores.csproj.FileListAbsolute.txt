@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\bin\Debug\net7.0\SomarValores.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\bin\Debug\net7.0\SomarValores.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\bin\Debug\net7.0\SomarValores.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\bin\Debug\net7.0\SomarValores.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\bin\Debug\net7.0\SomarValores.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\refint\SomarValores.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\SomarValores.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\SomarValores\obj\Debug\net7.0\ref\SomarValores.dll
