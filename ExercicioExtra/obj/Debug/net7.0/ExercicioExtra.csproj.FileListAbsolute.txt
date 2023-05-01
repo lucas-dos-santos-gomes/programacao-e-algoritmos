@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\bin\Debug\net7.0\ExercicioExtra.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\refint\ExercicioExtra.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ExercicioExtra.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-simples\ExercicioExtra\obj\Debug\net7.0\ref\ExercicioExtra.dll
