@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuteCerto", "ChuteCerto\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverterNumero", "InverterNumero\InverterNumero.csproj", "{6C85C29C-4EAC-41BF-87B9-490860365E0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressaoAritmetica", "ProgressaoAritmetica\ProgressaoAritmetica.csproj", "{F69BF8FF-3324-4997-9BFF-78989F28B79A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{6C85C29C-4EAC-41BF-87B9-490860365E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C85C29C-4EAC-41BF-87B9-490860365E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C85C29C-4EAC-41BF-87B9-490860365E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69BF8FF-3324-4997-9BFF-78989F28B79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69BF8FF-3324-4997-9BFF-78989F28B79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69BF8FF-3324-4997-9BFF-78989F28B79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69BF8FF-3324-4997-9BFF-78989F28B79A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
