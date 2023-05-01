@@ -1,4 +1,4 @@
-<img alt="Ícone csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img alt="Ícone csharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <h1 align="center">Programação e Algoritmos</h1>
 
 Matéria do primeiro módulo do curso Técnico em Desenvolvimento de Sistemas na Etec Albert Eintein. Neste repositório, deixarei todas as atividades realizadas nessa matéria em diferentes Branchs.
