@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\bin\Debug\net7.0\standart.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\bin\Debug\net7.0\standart.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\bin\Debug\net7.0\standart.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\bin\Debug\net7.0\standart.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\bin\Debug\net7.0\standart.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\refint\standart.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\standart.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\main\standart\obj\Debug\net7.0\ref\standart.dll
