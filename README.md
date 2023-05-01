@@ -1,3 +1,4 @@
+<img alt="Ícone csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <h1 align="center">Projeto Loop: Estruturas de Repetição</h1>
 
 Resolução de 9 exercícios de estruturas de repetição com C#, onde treinei meu raciocínio lógico e meu conhecimento geral sobre essa liguagem e seus atributos.
