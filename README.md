@@ -66,3 +66,16 @@ Treino de resolução de problemas. Apresente a solução para os problemas apre
 ### Exercício Extra
 
 <p>Para crédito imobiliário, uma instituição bancária estipulou que a prestação não poderá ultrapassar 30% do salário bruto do funcionário. Cria um algoritmo que solicita o salário e indica se o crédito foi aprovado ou não.</p>
+
+## Authors
+
+* Lucas dos Santos Gomes
+
+> Me siga nas redes sociais e favorite esse projeto. <br>
+> Obrigado pela sua visita!
+
+. <br>
+. <br>
+. <br>
+
+#etec #csharp #loops #logica #programacao #projetoloop
