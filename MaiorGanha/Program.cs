@@ -4,7 +4,7 @@ public class MaiorGanha
 {
   public static void Main()
   {
-    string continueGame = "sim";
+    string continueGame;
     int userNumber, computerNumber, plays = 0, userPoints = 0, computerPoints = 0;
     Random random = new Random();
     do {
