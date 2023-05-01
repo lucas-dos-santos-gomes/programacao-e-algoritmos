@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\refint\ProgressaoAritmetica.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\ProgressaoAritmetica\obj\Debug\net7.0\ref\ProgressaoAritmetica.dll
