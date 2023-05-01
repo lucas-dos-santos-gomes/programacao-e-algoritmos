@@ -32,6 +32,6 @@ Todas as tecnologias utilizadas neste curso:
 
 . <br>
 . <br>
-. <br><br>
+. <br>
 
 #etec #csharp #logica #algoritmos #programacao #dev
