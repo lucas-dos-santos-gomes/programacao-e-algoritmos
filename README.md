@@ -27,7 +27,7 @@ Todas as tecnologias utilizadas neste curso:
 
 * Lucas dos Santos Gomes
 
-> Me siga nas redes sociais e favorite esse projeto.
+> Me siga nas redes sociais e favorite esse projeto. <br>
 > Obrigado pela sua visita!
 
 . <br>
