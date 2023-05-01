@@ -41,7 +41,9 @@ Trocar o pneu traseiro esquerdo
 * Guardar o pneu e o macaco;
 * Fechar o porta-malas.
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235532563-5cf9752b-b24c-4cbd-a13e-fd44074ea6a1.png" alt="Fluxograma do algoritmo sequencial" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/106649118/235532563-5cf9752b-b24c-4cbd-a13e-fd44074ea6a1.png" alt="Fluxograma do algoritmo sequencial" />
+</div>
 
 ### Exercise 2 - Algoritmo de Decisão 1
 
@@ -101,7 +103,9 @@ Trocar o pneu traseiro esquerdo e, antes, verificar se o pneu reserva está em c
   - Guardar o pneu e o macaco; 
   - Fechar o porta-malas. 
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235534954-10ca7e4a-b111-411b-b75e-53a8c9e5ed99.png" alt="Fluxograma do primeiro algoritmo de decisão" />
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235534954-10ca7e4a-b111-411b-b75e-53a8c9e5ed99.png" alt="Fluxograma do primeiro algoritmo de decisão" />
+</div>
 
 ### Exercise 3 - Algoritmo de Decisão 2
 
@@ -171,7 +175,9 @@ Verificar se existe algum pneu furado; se houver, verificar o pneu reserva e, en
 * Se não existir um pneu furado, então: 
   - O carro está em condições de uso. 
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235537708-5a34fd6e-1c4c-4619-b418-8e2f2349b17f.png" alt="Fluxograma do segundo algoritmo de decisão" />
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235537708-5a34fd6e-1c4c-4619-b418-8e2f2349b17f.png" alt="Fluxograma do segundo algoritmo de decisão" />
+</div>
 
 ## Authors
 
@@ -182,6 +188,6 @@ Verificar se existe algum pneu furado; se houver, verificar o pneu reserva e, en
 
 . <br>
 . <br>
-. <br><br>
+. <br>
 
 #etec #csharp #logica #algoritmos #fluxograma #programacao #dev
