@@ -80,4 +80,4 @@ Treino de resolução de problemas. Apresente a solução para os problemas apre
 . <br>
 . <br>
 
-#etec #csharp #loops #logica #programacao #projetoloop
+#etec #csharp #ifelse #logica #programacao #estruturas-condicionais
