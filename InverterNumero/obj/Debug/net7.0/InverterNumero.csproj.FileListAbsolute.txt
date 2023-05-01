@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\bin\Debug\net7.0\InverterNumero.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\bin\Debug\net7.0\InverterNumero.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\bin\Debug\net7.0\InverterNumero.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\bin\Debug\net7.0\InverterNumero.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\bin\Debug\net7.0\InverterNumero.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\refint\InverterNumero.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\InverterNumero.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\InverterNumero\obj\Debug\net7.0\ref\InverterNumero.dll
