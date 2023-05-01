@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\bin\Debug\net7.0\MaiorGanha.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\bin\Debug\net7.0\MaiorGanha.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\bin\Debug\net7.0\MaiorGanha.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\bin\Debug\net7.0\MaiorGanha.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\bin\Debug\net7.0\MaiorGanha.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\refint\MaiorGanha.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\MaiorGanha.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-loop\MaiorGanha\obj\Debug\net7.0\ref\MaiorGanha.dll
