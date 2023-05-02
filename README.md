@@ -23,3 +23,18 @@ Todas as tecnologias utilizadas nesse projeto:
   - C# Extensions
 * Visual Studio
 * dotnetfiddle.net
+
+
+
+## Authors
+
+* Lucas dos Santos Gomes
+
+> Me siga nas redes sociais e favorite esse projeto. <br>
+> Obrigado pela sua visita!
+
+. <br>
+. <br>
+. <br>
+
+#etec #csharp #if-else #switch #logica #programacao #estruturas-condicionais
