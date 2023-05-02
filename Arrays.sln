@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj", "{AFCAA77E-9B15-41C3-B9CA-8A20AE9688FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +12,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCAA77E-9B15-41C3-B9CA-8A20AE9688FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCAA77E-9B15-41C3-B9CA-8A20AE9688FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCAA77E-9B15-41C3-B9CA-8A20AE9688FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCAA77E-9B15-41C3-B9CA-8A20AE9688FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
