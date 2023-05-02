@@ -87,7 +87,7 @@ Faça um programa que o usuário escolha entre as opções “1- Par 2- Impar 0-
   <img src="https://user-images.githubusercontent.com/106649118/235417363-e22ed698-a1af-4ab2-92f1-64cb1a330015.png" alt="Parabéns, é realmente ímpar!" />
 </div>
 
-### <a href="">f) Classe MaiorGanha</a>
+### <a href="https://dotnetfiddle.net/nEn0HA">f) Classe MaiorGanha</a>
 
 Faça um programa que exiba um número de 1 a 100 obtido randomicamente para o usuário e pergunte se ele quer apostar. Se sim, gere outro número obtido randomicamente. Se o número recebido pelo usuário for maior, pontue o usuário, se o número apresentado para o computador for maior, pontue o computador, se os números forem iguais, não pontue ninguém. Exiba o placar a cada jogada. Utilize o loop <b>do while</b>.
 
