@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "ParOuImpar\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenarNumeros", "OrdenarNumeros\OrdenarNumeros.csproj", "{ADE1EF3E-1624-4811-9898-E6343014D8BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeiaEntrada", "MeiaEntrada\MeiaEntrada.csproj", "{F4B5AD6A-A4C4-4CCC-90E7-C15C667F6390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{ADE1EF3E-1624-4811-9898-E6343014D8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADE1EF3E-1624-4811-9898-E6343014D8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADE1EF3E-1624-4811-9898-E6343014D8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B5AD6A-A4C4-4CCC-90E7-C15C667F6390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B5AD6A-A4C4-4CCC-90E7-C15C667F6390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B5AD6A-A4C4-4CCC-90E7-C15C667F6390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B5AD6A-A4C4-4CCC-90E7-C15C667F6390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
