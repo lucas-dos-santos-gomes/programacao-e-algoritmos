@@ -122,7 +122,7 @@ Faça um programa que receba um número entre 100 e 999. Se o número estiver fo
   <img align="center" src="https://user-images.githubusercontent.com/106649118/235421581-c477b3d6-5dd8-47b2-8c16-8cef8cb77650.png" alt="Número digitado e o inverso dele" />
 </div>
 
-### <a href="">i) Classe ProgressaoAritmetica</a>
+### <a href="https://dotnetfiddle.net/Cmdx8X">i) Classe ProgressaoAritmetica</a>
 
 Crie um programa que receba um número digitado pelo usuário, uma razão e o limite. Calcule os termos de  uma P.A (Progressão Aritmética), armazenando esses valores em uma String. Exiba os números obtidos. Progressão aritmética é uma sequência de números somados a um valor constante. Fórmula:
 
