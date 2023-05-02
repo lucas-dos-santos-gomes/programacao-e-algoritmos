@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\bin\Debug\net7.0\OrdenarNumeros.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\bin\Debug\net7.0\OrdenarNumeros.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\bin\Debug\net7.0\OrdenarNumeros.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\bin\Debug\net7.0\OrdenarNumeros.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\bin\Debug\net7.0\OrdenarNumeros.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\refint\OrdenarNumeros.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\OrdenarNumeros.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\OrdenarNumeros\obj\Debug\net7.0\ref\OrdenarNumeros.dll
