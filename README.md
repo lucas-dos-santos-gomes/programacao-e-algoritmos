@@ -28,7 +28,7 @@ Todas as tecnologias utilizadas nesse projeto:
 
 Exercícios da letra 'a)' até a letra 'i)'.
 
-### <a href="https://dotnetfiddle.net/XllVuh">a) Classe Tabuada</a></a>
+### <a href="https://dotnetfiddle.net/XllVuh">a) Classe Tabuada</a>
 
 Desenvolva um programa que receba um número inteiro digitado e apresente a tabuada deste número. Utilize o loop <b>for</b>. Sintaxe:
 
@@ -51,7 +51,7 @@ Desenvolver um programa que recebe um número inteiro digitado e soma todos os n
 
 > 5! = 1 + 2 + 3 + 4 + 5 = 15
 
-### <a href="">c) Classe Fatorial</a>
+### <a href="https://dotnetfiddle.net/Xsm6hE">c) Classe Fatorial</a>
 
 Desenvolver um programa que recebe um número inteiro digitado e multiplique todos os números de 1 ate o numero digitado e apresente o resultado abaixo. Utilize o loop <b>for</b>.
 
