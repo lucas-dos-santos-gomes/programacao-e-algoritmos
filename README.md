@@ -102,7 +102,7 @@ Faça um programa que exiba um número de 1 a 100 obtido randomicamente para o u
   <img align="center" src="https://user-images.githubusercontent.com/106649118/235417843-fe309d6e-c15d-43cf-8eff-bab81c1affdd.png" alt="Aposta contra computador" />
 </div>
 
-### <a href="">g) Classe ChuteCerto</a>
+### <a href="https://dotnetfiddle.net/bTZLbh">g) Classe ChuteCerto</a>
 
 Faça um programa que receba um número (de 1 a 10) digitado pelo usuário. Gere um número randomicamente. Se número gerado for igual ao número informado pelo usuário, dê os parabéns e some 1 ponto. Senão, some 1 ponto para o computador. Exiba o placar a cada jogada. Para sair peça que ele digite 0.
 
