@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\bin\Debug\net7.0\Ordenar.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\bin\Debug\net7.0\Ordenar.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\bin\Debug\net7.0\Ordenar.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\bin\Debug\net7.0\Ordenar.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\bin\Debug\net7.0\Ordenar.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\refint\Ordenar.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\Ordenar.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Ordenar\obj\Debug\net7.0\ref\Ordenar.dll
