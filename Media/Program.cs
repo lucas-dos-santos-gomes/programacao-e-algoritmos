@@ -12,6 +12,7 @@ public class Media
       notas[contador-1] = double.Parse(Console.ReadLine());
     }
     double media = (notas[0] + notas[1] + notas[2] + notas[3]) / 4;
+    media = double.Parse(String.Format("{0:f}", media));
     Console.WriteLine("\nSua média foi " + media);
   }
 }
