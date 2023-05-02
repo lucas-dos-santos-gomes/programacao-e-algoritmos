@@ -57,7 +57,7 @@ Desenvolver um programa que recebe um número inteiro digitado e multiplique tod
 
 > 5! = 1 * 2 * 3 * 4 * 5 = 120
 
-### <a href="">d) Classe TesteDeSoma</a>
+### <a href="https://dotnetfiddle.net/Xy5iQH">d) Classe TesteDeSoma</a>
 
 Desenvolva um programa que apresente um a expressão de soma de dois números obtidos randomicamente (de 1 a 10), caso o usuário digite a resposta errada, peça que ele tente novamente, se ele acertar, dê os parabéns. Conte quantas vezes ele acertou e apresente o percentual de acertos a cada jogada. Para sair, peça que ele digite 0. Utilize o loop <b>while</b>. Sintaxe:
 
