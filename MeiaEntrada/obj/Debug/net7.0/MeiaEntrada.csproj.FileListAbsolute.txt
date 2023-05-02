@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\bin\Debug\net7.0\MeiaEntrada.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\bin\Debug\net7.0\MeiaEntrada.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\bin\Debug\net7.0\MeiaEntrada.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\bin\Debug\net7.0\MeiaEntrada.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\bin\Debug\net7.0\MeiaEntrada.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\refint\MeiaEntrada.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\MeiaEntrada.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\MeiaEntrada\obj\Debug\net7.0\ref\MeiaEntrada.dll
