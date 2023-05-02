@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validar", "Validar\Validar.csproj", "{45FC3C41-2369-4A03-973C-743BDD6CA117}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj", "{3E5C9DAA-34A1-448B-84D8-D0E8D5C1F316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{45FC3C41-2369-4A03-973C-743BDD6CA117}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45FC3C41-2369-4A03-973C-743BDD6CA117}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45FC3C41-2369-4A03-973C-743BDD6CA117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5C9DAA-34A1-448B-84D8-D0E8D5C1F316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5C9DAA-34A1-448B-84D8-D0E8D5C1F316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5C9DAA-34A1-448B-84D8-D0E8D5C1F316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5C9DAA-34A1-448B-84D8-D0E8D5C1F316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
