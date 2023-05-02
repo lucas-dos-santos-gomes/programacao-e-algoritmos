@@ -1,7 +1,7 @@
 <img alt="Ícone csharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <h1 align="center">Projeto Loop: Estruturas de Repetição</h1>
 
-Resolução de 9 exercícios de estruturas de repetição com C#, onde treinei meu raciocínio lógico e meu conhecimento geral sobre essa liguagem e seus atributos.
+Resolução de 9 exercícios de estruturas de repetição com C#, onde treinei meu raciocínio lógico e meu conhecimento geral sobre essa linguagem e seus atributos.
 
 ## Features
 
@@ -28,7 +28,7 @@ Todas as tecnologias utilizadas nesse projeto:
 
 Exercícios da letra 'a)' até a letra 'i)'.
 
-### <a href="https://dotnetfiddle.net/XllVuh">a) Classe Tabuada</a>
+### <a href="https://dotnetfiddle.net/XllVuh">a) Classe Tabuada</a></a>
 
 Desenvolva um programa que receba um número inteiro digitado e apresente a tabuada deste número. Utilize o loop <b>for</b>. Sintaxe:
 
@@ -45,19 +45,19 @@ Ao final, exibir a mensagem:
   <img src="https://user-images.githubusercontent.com/106649118/235416037-36b6ba73-e6c6-4ac0-8e82-201a6f815b1e.png" alt="Tabuada do 5" />
 </div>
 
-### b) Classe SomarValores
+### <a href="https://dotnetfiddle.net/h1MDdL">b) Classe SomarValores</a>
 
 Desenvolver um programa que recebe um número inteiro digitado e soma todos os números de 1 ate o numero digitado e apresente o resultado abaixo. Utilize o loop <b>for</b>.
 
 > 5! = 1 + 2 + 3 + 4 + 5 = 15
 
-### c) CLasse Fatorial
+### <a href="">c) Classe Fatorial</a>
 
 Desenvolver um programa que recebe um número inteiro digitado e multiplique todos os números de 1 ate o numero digitado e apresente o resultado abaixo. Utilize o loop <b>for</b>.
 
 > 5! = 1 * 2 * 3 * 4 * 5 = 120
 
-### d) Classe TesteDeSoma
+### <a href="">d) Classe TesteDeSoma</a>
 
 Desenvolva um programa que apresente um a expressão de soma de dois números obtidos randomicamente (de 1 a 10), caso o usuário digite a resposta errada, peça que ele tente novamente, se ele acertar, dê os parabéns. Conte quantas vezes ele acertou e apresente o percentual de acertos a cada jogada. Para sair, peça que ele digite 0. Utilize o loop <b>while</b>. Sintaxe:
 
@@ -77,7 +77,7 @@ Comando para gerar números aleatórios:
   <img src="https://user-images.githubusercontent.com/106649118/235416526-e6deb9b5-bed0-4ab0-bc97-21f56f7cd7a9.png" alt="Parabéns pelo acerto" />
 </div>
 
-### e) Classe ParOuImpar
+### <a href="">e) Classe ParOuImpar</a>
 
 Faça um programa que o usuário escolha entre as opções “1- Par 2- Impar 0- Sair”. Exiba um número obtido randomicamente. Se ele acertar, conte o ponto para o usuário, senão, ponto para o computador. Exiba o placar a cada jogada. Utilize o loop <b>while</b>.
 
@@ -87,7 +87,7 @@ Faça um programa que o usuário escolha entre as opções “1- Par 2- Impar 0-
   <img src="https://user-images.githubusercontent.com/106649118/235417363-e22ed698-a1af-4ab2-92f1-64cb1a330015.png" alt="Parabéns, é realmente ímpar!" />
 </div>
 
-### f) Classe MaiorGanha
+### <a href="">f) Classe MaiorGanha</a>
 
 Faça um programa que exiba um número de 1 a 100 obtido randomicamente para o usuário e pergunte se ele quer apostar. Se sim, gere outro número obtido randomicamente. Se o número recebido pelo usuário for maior, pontue o usuário, se o número apresentado para o computador for maior, pontue o computador, se os números forem iguais, não pontue ninguém. Exiba o placar a cada jogada. Utilize o loop <b>do while</b>.
 
@@ -102,7 +102,7 @@ Faça um programa que exiba um número de 1 a 100 obtido randomicamente para o u
   <img align="center" src="https://user-images.githubusercontent.com/106649118/235417843-fe309d6e-c15d-43cf-8eff-bab81c1affdd.png" alt="Aposta contra computador" />
 </div>
 
-### g) Classe ChuteCerto
+### <a href="">g) Classe ChuteCerto</a>
 
 Faça um programa que receba um número (de 1 a 10) digitado pelo usuário. Gere um número randomicamente. Se número gerado for igual ao número informado pelo usuário, dê os parabéns e some 1 ponto. Senão, some 1 ponto para o computador. Exiba o placar a cada jogada. Para sair peça que ele digite 0.
 
@@ -112,7 +112,7 @@ Faça um programa que receba um número (de 1 a 10) digitado pelo usuário. Gere
   <img align="center" src="https://user-images.githubusercontent.com/106649118/235418395-16f2d1da-0cb1-4a18-a3dc-1cb18753c421.png" alt="Parabéns! Você acertou o número!" />
 </div>
 
-### h) Classe InverterNumero
+### <a href="">h) Classe InverterNumero</a>
 
 Faça um programa que receba um número entre 100 e 999. Se o número estiver fora desta faixa, exiba uma mensagem ao usuário de número inválido. Caso o número seja válido, exiba o número digitado e o inverso do número digitado. Não converta o número em String para inverter. Utilize variáveis auxiliares do tipo int. Se a pessoa digitar 0, saia do programa. Utilize o loop <b>do while</b> para repetir até que o usuário queira parar. Você vai precisar de pelo menos <b>3 variáveis auxiliares</b>.
 
@@ -122,7 +122,7 @@ Faça um programa que receba um número entre 100 e 999. Se o número estiver fo
   <img align="center" src="https://user-images.githubusercontent.com/106649118/235421581-c477b3d6-5dd8-47b2-8c16-8cef8cb77650.png" alt="Número digitado e o inverso dele" />
 </div>
 
-### i) Classe ProgressaoAritmetica
+### <a href="">i) Classe ProgressaoAritmetica</a>
 
 Crie um programa que receba um número digitado pelo usuário, uma razão e o limite. Calcule os termos de  uma P.A (Progressão Aritmética), armazenando esses valores em uma String. Exiba os números obtidos. Progressão aritmética é uma sequência de números somados a um valor constante. Fórmula:
 
