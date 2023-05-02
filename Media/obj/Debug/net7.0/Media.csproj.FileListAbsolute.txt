@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\bin\Debug\net7.0\Media.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\bin\Debug\net7.0\Media.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\bin\Debug\net7.0\Media.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\bin\Debug\net7.0\Media.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\bin\Debug\net7.0\Media.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\refint\Media.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\Media.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Media\obj\Debug\net7.0\ref\Media.dll
