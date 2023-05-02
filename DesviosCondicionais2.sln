@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diferenca", "Diferenca\Dife
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "ParOuImpar\ParOuImpar.csproj", "{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenarNumeros", "OrdenarNumeros\OrdenarNumeros.csproj", "{ADE1EF3E-1624-4811-9898-E6343014D8BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE1EF3E-1624-4811-9898-E6343014D8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE1EF3E-1624-4811-9898-E6343014D8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE1EF3E-1624-4811-9898-E6343014D8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE1EF3E-1624-4811-9898-E6343014D8BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
