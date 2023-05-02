@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesquisa", "Pesquisa\Pesqui
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParIdeal", "ParIdeal\ParIdeal.csproj", "{EEB467FB-A88E-4BA2-97E7-BC6F8C40A08C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB467FB-A88E-4BA2-97E7-BC6F8C40A08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB467FB-A88E-4BA2-97E7-BC6F8C40A08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB467FB-A88E-4BA2-97E7-BC6F8C40A08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB467FB-A88E-4BA2-97E7-BC6F8C40A08C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
