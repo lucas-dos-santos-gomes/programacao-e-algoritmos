@@ -12,3 +12,14 @@ As estruturas que foram treinadas nesse exercício:
 * else
 * else if
 * Switch
+
+## Technologies
+
+Todas as tecnologias utilizadas nesse projeto:
+* C#
+* .NET SDK
+* Visual Studio Code
+  - C#
+  - C# Extensions
+* Visual Studio
+* dotnetfiddle.net
