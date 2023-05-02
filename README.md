@@ -77,7 +77,7 @@ Comando para gerar números aleatórios:
   <img src="https://user-images.githubusercontent.com/106649118/235416526-e6deb9b5-bed0-4ab0-bc97-21f56f7cd7a9.png" alt="Parabéns pelo acerto" />
 </div>
 
-### <a href="">e) Classe ParOuImpar</a>
+### <a href="https://dotnetfiddle.net/SpRnc1">e) Classe ParOuImpar</a>
 
 Faça um programa que o usuário escolha entre as opções “1- Par 2- Impar 0- Sair”. Exiba um número obtido randomicamente. Se ele acertar, conte o ponto para o usuário, senão, ponto para o computador. Exiba o placar a cada jogada. Utilize o loop <b>while</b>.
 
