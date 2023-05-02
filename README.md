@@ -28,7 +28,7 @@ Todas as tecnologias utilizadas nesse projeto:
 
 Exercícios da letra 'a)' até a letra 'i)'.
 
-### a) Classe Tabuada
+### <a href="https://dotnetfiddle.net/XllVuh">a) Classe Tabuada</a>
 
 Desenvolva um programa que receba um número inteiro digitado e apresente a tabuada deste número. Utilize o loop <b>for</b>. Sintaxe:
 
