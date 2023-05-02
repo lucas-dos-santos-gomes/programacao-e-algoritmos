@@ -41,8 +41,8 @@ Desenvolva um programa que receba um número inteiro digitado e apresente a tabu
 > }
 
 Ao final, exibir a mensagem:
-<div style="display: inline-block" align="center">
-  ![Tabuada do 5](https://user-images.githubusercontent.com/106649118/235416037-36b6ba73-e6c6-4ac0-8e82-201a6f815b1e.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/106649118/235416037-36b6ba73-e6c6-4ac0-8e82-201a6f815b1e.png" alt="Tabuada do 5" />
 </div>
 
 ### b) Classe SomarValores
@@ -71,17 +71,21 @@ Comando para gerar números aleatórios:
 > int n1 = gerador.nextInt(10); // O 10 indica que o número gerado deve ser entre 1 e 10.
 > int n2 = gerador.nextInt(10); // Se colocar 100 serão gerados números até 100.
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235416157-aff12275-b97f-4705-944d-08aaf6af297c.png" alt="Resultado soma" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/106649118/235416157-aff12275-b97f-4705-944d-08aaf6af297c.png" alt="Resultado soma" />
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235416526-e6deb9b5-bed0-4ab0-bc97-21f56f7cd7a9.png" alt="Parabéns pelo acerto" />
+  <img src="https://user-images.githubusercontent.com/106649118/235416526-e6deb9b5-bed0-4ab0-bc97-21f56f7cd7a9.png" alt="Parabéns pelo acerto" />
+</div>
 
 ### e) Classe ParOuImpar
 
 Faça um programa que o usuário escolha entre as opções “1- Par 2- Impar 0- Sair”. Exiba um número obtido randomicamente. Se ele acertar, conte o ponto para o usuário, senão, ponto para o computador. Exiba o placar a cada jogada. Utilize o loop <b>while</b>.
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235417179-f2874aee-6436-454d-8b68-975cd7388c4c.png" alt="Escolha ímpar, par ou saída" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/106649118/235417179-f2874aee-6436-454d-8b68-975cd7388c4c.png" alt="Escolha ímpar, par ou saída" />
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235417363-e22ed698-a1af-4ab2-92f1-64cb1a330015.png" alt="Parabéns, é realmente ímpar!" />
+  <img src="https://user-images.githubusercontent.com/106649118/235417363-e22ed698-a1af-4ab2-92f1-64cb1a330015.png" alt="Parabéns, é realmente ímpar!" />
+</div>
 
 ### f) Classe MaiorGanha
 
@@ -94,29 +98,37 @@ Faça um programa que exiba um número de 1 a 100 obtido randomicamente para o u
 > //Caixa de mensagem com opção de sim e não:
 > JOptionPane.showConfirmDialog(null, “Seu número é” + n + “ Apostar?”,”Confirmação”, 0);
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235417843-fe309d6e-c15d-43cf-8eff-bab81c1affdd.png" alt="Aposta contra computador" />
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235417843-fe309d6e-c15d-43cf-8eff-bab81c1affdd.png" alt="Aposta contra computador" />
+</div>
 
 ### g) Classe ChuteCerto
 
 Faça um programa que receba um número (de 1 a 10) digitado pelo usuário. Gere um número randomicamente. Se número gerado for igual ao número informado pelo usuário, dê os parabéns e some 1 ponto. Senão, some 1 ponto para o computador. Exiba o placar a cada jogada. Para sair peça que ele digite 0.
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235418241-3e9a7ed0-c432-43fa-bfcc-369a93c3c8bf.png" alt="Digite um número de 1 a 10" />
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235418241-3e9a7ed0-c432-43fa-bfcc-369a93c3c8bf.png" alt="Digite um número de 1 a 10" />
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235418395-16f2d1da-0cb1-4a18-a3dc-1cb18753c421.png" alt="Parabéns! Você acertou o número!" />
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235418395-16f2d1da-0cb1-4a18-a3dc-1cb18753c421.png" alt="Parabéns! Você acertou o número!" />
+</div>
 
 ### h) Classe InverterNumero
 
 Faça um programa que receba um número entre 100 e 999. Se o número estiver fora desta faixa, exiba uma mensagem ao usuário de número inválido. Caso o número seja válido, exiba o número digitado e o inverso do número digitado. Não converta o número em String para inverter. Utilize variáveis auxiliares do tipo int. Se a pessoa digitar 0, saia do programa. Utilize o loop <b>do while</b> para repetir até que o usuário queira parar. Você vai precisar de pelo menos <b>3 variáveis auxiliares</b>.
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235418759-c91b0b55-f091-479a-b62b-c7a0974c73ce.png" alt="Digite um número de entre 100 e 999" />
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235418759-c91b0b55-f091-479a-b62b-c7a0974c73ce.png" alt="Digite um número de entre 100 e 999" />
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235421581-c477b3d6-5dd8-47b2-8c16-8cef8cb77650.png" alt="Número digitado e o inverso dele" />
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235421581-c477b3d6-5dd8-47b2-8c16-8cef8cb77650.png" alt="Número digitado e o inverso dele" />
+</div>
 
 ### i) Classe ProgressaoAritmetica
 
 Crie um programa que receba um número digitado pelo usuário, uma razão e o limite. Calcule os termos de  uma P.A (Progressão Aritmética), armazenando esses valores em uma String. Exiba os números obtidos. Progressão aritmética é uma sequência de números somados a um valor constante. Fórmula:
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235421984-9e31ba05-1d87-4837-a433-2e6b5458f5ae.png" alt="Fórmula da progressão aritmética" />
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235421984-9e31ba05-1d87-4837-a433-2e6b5458f5ae.png" alt="Fórmula da progressão aritmética" />
+</div>
 
 , em que:
 * a¹ é o primeiro termo;
@@ -124,7 +136,9 @@ Crie um programa que receba um número digitado pelo usuário, uma razão e o li
 * O segundo número da progressão é obtido pela fórmula: a2 = a1 + (2 - 1) * r;
 * Exemplo = número recebido 2, razão 2, limite 10: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
 
-<img align="center" src="https://user-images.githubusercontent.com/106649118/235422490-a7420ca8-b599-4669-8e2e-127aa0fd439e.png" alt="Exemplo do programa" />
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/106649118/235422490-a7420ca8-b599-4669-8e2e-127aa0fd439e.png" alt="Exemplo do programa" />
+</div>
 
 ## Authors
 
