@@ -112,7 +112,7 @@ Faça um programa que receba um número (de 1 a 10) digitado pelo usuário. Gere
   <img align="center" src="https://user-images.githubusercontent.com/106649118/235418395-16f2d1da-0cb1-4a18-a3dc-1cb18753c421.png" alt="Parabéns! Você acertou o número!" />
 </div>
 
-### <a href="">h) Classe InverterNumero</a>
+### <a href="https://dotnetfiddle.net/yHpp3Y">h) Classe InverterNumero</a>
 
 Faça um programa que receba um número entre 100 e 999. Se o número estiver fora desta faixa, exiba uma mensagem ao usuário de número inválido. Caso o número seja válido, exiba o número digitado e o inverso do número digitado. Não converta o número em String para inverter. Utilize variáveis auxiliares do tipo int. Se a pessoa digitar 0, saia do programa. Utilize o loop <b>do while</b> para repetir até que o usuário queira parar. Você vai precisar de pelo menos <b>3 variáveis auxiliares</b>.
 
