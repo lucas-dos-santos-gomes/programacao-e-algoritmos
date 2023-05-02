@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\bin\Debug\net7.0\Validar.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\bin\Debug\net7.0\Validar.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\bin\Debug\net7.0\Validar.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\bin\Debug\net7.0\Validar.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\bin\Debug\net7.0\Validar.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\refint\Validar.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\Validar.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Validar\obj\Debug\net7.0\ref\Validar.dll
