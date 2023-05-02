@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\bin\Debug\net7.0\ParIdeal.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\bin\Debug\net7.0\ParIdeal.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\bin\Debug\net7.0\ParIdeal.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\bin\Debug\net7.0\ParIdeal.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\bin\Debug\net7.0\ParIdeal.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\refint\ParIdeal.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ParIdeal.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\ParIdeal\obj\Debug\net7.0\ref\ParIdeal.dll
