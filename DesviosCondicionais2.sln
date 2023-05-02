@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aumento", "Aumento\Aumento.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pesquisa", "Pesquisa\Pesquisa.csproj", "{53E086FC-FE92-43DE-9478-DA6102DDD899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{53E086FC-FE92-43DE-9478-DA6102DDD899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E086FC-FE92-43DE-9478-DA6102DDD899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E086FC-FE92-43DE-9478-DA6102DDD899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DA45B1-7ECA-4BDA-A1C8-BED8578D2390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
