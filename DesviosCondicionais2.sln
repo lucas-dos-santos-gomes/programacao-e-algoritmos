@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diferenca", "Diferenca\Diferenca.csproj", "{ED23837A-E178-4278-99AA-A8156280CE25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "ParOuImpar\ParOuImpar.csproj", "{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{ED23837A-E178-4278-99AA-A8156280CE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED23837A-E178-4278-99AA-A8156280CE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED23837A-E178-4278-99AA-A8156280CE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D40FDE-B15C-49F6-8B5C-9C95799AA396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
