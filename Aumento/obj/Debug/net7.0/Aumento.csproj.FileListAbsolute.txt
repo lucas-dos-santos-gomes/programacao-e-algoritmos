@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\bin\Debug\net7.0\Aumento.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\bin\Debug\net7.0\Aumento.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\bin\Debug\net7.0\Aumento.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\bin\Debug\net7.0\Aumento.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\bin\Debug\net7.0\Aumento.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\refint\Aumento.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\Aumento.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-desvios-condicionais-2\Aumento\obj\Debug\net7.0\ref\Aumento.dll
