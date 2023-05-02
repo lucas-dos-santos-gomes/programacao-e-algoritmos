@@ -28,31 +28,31 @@ Todas as tecnologias utilizadas nesse projeto:
 
 Desenvolva programas que atendam as solicitações:
 
-### <a href="https://dotnetfiddle.net/RLFdzb">Exercício 1 - Validar</a>
+### <a href="https://dotnetfiddle.net/RLFdzb" target="_blank">Exercício 1 - Validar</a>
 
 <p>Desenvolver um programa que receba valores numéricos entre 0 (zero) e 100 (cem), digitados pelo usuário. Se o valor estiver dentro da faixa, deverá apresentar a mensagem "Valor Válido" e o valor digitado. Caso o valor esteja fora da faixa, apresentar a mensagem "Valor Inválido" e o valor digitado.</p>
 
-### <a href="https://dotnetfiddle.net/3wP7kZ">Exercício 2 - Média</a>
+### <a href="https://dotnetfiddle.net/3wP7kZ" target="_blank">Exercício 2 - Média</a>
 
 <p>Desenvolva um programa que leia 4 notas escolares de um aluno e calcule a média aritmética das notas. Caso a média seja maior ou igual a 5, exibir a mensagem "Aluno aprovado". Se o aluno ficou entre 3 e 5, exibir a mensagem “Recuperação”, se não atingiu a média mínima (menos do que 3), exibir a mensagem "Aluno reprovado". Apresente junto à mensagem a média do aluno.</p>
 
-### <a href="https://dotnetfiddle.net/ReTtzu">Exercício 3 - Diferença</a>
+### <a href="https://dotnetfiddle.net/ReTtzu" target="_blank">Exercício 3 - Diferença</a>
 
 <p>Desenvolva um programa que leia dois valores inteiros digitados pelo usuário, e apresente a diferença do maior pelo menor.</p>
 
-### <a href="https://dotnetfiddle.net/SWIA27">Exercício 4 - Par ou Ímpar</a>
+### <a href="https://dotnetfiddle.net/SWIA27" target="_blank">Exercício 4 - Par ou Ímpar</a>
 
 <p>Elabore um programa que verifique se o número digitado e par ou ímpar. Use o comando % que retorna o resto de uma divisão.</p>
 
-### <a href="https://dotnetfiddle.net/3U8w0h">Exercício 5 - Ordenar Números</a>
+### <a href="https://dotnetfiddle.net/3U8w0h" target="_blank">Exercício 5 - Ordenar Números</a>
 
 <p>Elaborar um programa que leia 3 valores inteiros digitados (representados pelas variáveis numA, numB e numC). O programa deverá apresentar os valores digitados em ordem crescente. Não esqueça que você precisará de uma variável auxiliar, para não perder os valores digitados pelo usuário.</p>
 
-### <a href="https://dotnetfiddle.net/IBLZCv">Exercício 6 - Meia Entrada</a>
+### <a href="https://dotnetfiddle.net/IBLZCv" target="_blank">Exercício 6 - Meia Entrada</a>
 
 <p>Desenvolva um programa que calcule meia entrada para menores de 12 anos, maiores de 65 anos ou estudantes. Receba os parâmetros do usuário: idade (inteiro), estudante (lógico). Faça um único separa testar todas as condições de uma única vez. O valor da entrada é R$ 20,00. Exibir o valor da entrada a ser pago pelo cliente.</p>
 
-### <a href="https://dotnetfiddle.net/PAmkR4">Exercício 7 - Ordenar</a>
+### <a href="https://dotnetfiddle.net/PAmkR4" target="_blank">Exercício 7 - Ordenar</a>
 
 <p>Utilize o conceito de propriedade distributiva para ordenar os valores. Não use variável auxiliar desta vez. Utilize ifs independentes. Baseie-se no algoritmo:</p>
 
@@ -73,7 +73,7 @@ Desenvolva programas que atendam as solicitações:
 > FimSe <br>
 > Exibir numA, numB, numC
 
-### <a href="https://dotnetfiddle.net/r2CJpP">Exercício 8 - Aumento</a>
+### <a href="https://dotnetfiddle.net/r2CJpP" target="_blank">Exercício 8 - Aumento</a>
 
 <p>Uma empresa decidiu dar reajuste a seus funcionários de acordo com os seguintes critérios:</p>
 
@@ -89,11 +89,11 @@ Desenvolva programas que atendam as solicitações:
 * Aumento = --valor_do_aumento--
 * Salário atual = --salário atual--
 
-### <a href="https://dotnetfiddle.net/fqkrBY">Exercício 9 - Pesquisa</a>
+### <a href="https://dotnetfiddle.net/fqkrBY" target="_blank">Exercício 9 - Pesquisa</a>
 
 <p>Desenvolva um programa que teste responda se a pessoa está apta para participar da pesquisa. Uma empresa quer testar a satisfação dos clientes com um produto lançado recentemente no mercado. Os consumidores entrevistados deverão ser do sexo masculino, idade entre 20 e 25 anos, da classe A ou B, nível superior, que tenham adquirido o produto há mais de 6 meses e menos de 1 ano. Teste as informações e exiba “Apto” ou “Fora da faixa pesquisada”. Crie SE's encadeados e passe para a próxima pergunta somente se ele continuar apto.</p>
 
-### <a href="https://dotnetfiddle.net/9GVxg0">Exercício 10 - Calculadora</a>
+### <a href="https://dotnetfiddle.net/9GVxg0" target="_blank">Exercício 10 - Calculadora</a>
 
 <p>Desenvolva um programa que receba 2 números digitados pelo usuário, e armazene  em duas variáveis do tipo real. Após receber os 2 números, apresente o seguinte menu:</p>
 
@@ -109,7 +109,7 @@ Desenvolva programas que atendam as solicitações:
 
 * 10 - 5 = 5
 
-### <a href="https://dotnetfiddle.net/HYWMwe">Exercício 11 - Par Ideal</a>
+### <a href="https://dotnetfiddle.net/HYWMwe" target="_blank">Exercício 11 - Par Ideal</a>
 
 <p>Desenvolva um programa que sugira uma pessoa como sendo o par ideal (Tipo o BuzzFeed). Para descobrir, faça alguns testes. Peça que o usuário selecione uma das opções:</p>
 
