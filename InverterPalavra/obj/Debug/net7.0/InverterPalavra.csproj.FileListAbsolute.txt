@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\bin\Debug\net7.0\InverterPalavra.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\bin\Debug\net7.0\InverterPalavra.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\bin\Debug\net7.0\InverterPalavra.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\bin\Debug\net7.0\InverterPalavra.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\bin\Debug\net7.0\InverterPalavra.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\refint\InverterPalavra.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\InverterPalavra.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\InverterPalavra\obj\Debug\net7.0\ref\InverterPalavra.dll
