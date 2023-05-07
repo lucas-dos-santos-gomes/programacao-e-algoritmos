@@ -11,6 +11,7 @@ public class InverterPalavra
       string word = Console.ReadLine();
       char[] wordList = word.ToCharArray();
 
+      // Array.reverse()
       for(int i = wordList.Length - 1; i >= 0; i--) {
         finalWord += wordList[i];
       }
