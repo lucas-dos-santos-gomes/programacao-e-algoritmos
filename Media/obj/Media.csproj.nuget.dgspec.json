@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj": {}
+    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj": {
+    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj",
         "projectName": "Media",
-        "projectPath": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj",
+        "projectPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\Media.csproj",
         "packagesPath": "C:\\Users\\Aluno PROA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\obj\\",
+        "outputPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Media\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno PROA\\AppData\\Roaming\\NuGet\\NuGet.Config"

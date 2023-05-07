@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj": {}
+    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj": {
+    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj",
         "projectName": "Fibonacci",
-        "projectPath": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj",
+        "projectPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\Aluno PROA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\obj\\",
+        "outputPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno PROA\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj": {}
+    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj": {
+    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj",
         "projectName": "InverterPalavra",
-        "projectPath": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj",
+        "projectPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\InverterPalavra.csproj",
         "packagesPath": "C:\\Users\\Aluno PROA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\obj\\",
+        "outputPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-arrays\\InverterPalavra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno PROA\\AppData\\Roaming\\NuGet\\NuGet.Config"
