@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impares", "Impares\Impares.csproj", "{E03BEDA3-906C-4817-BAE5-EED7D5151B9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenarArray", "OrdenarArray\OrdenarArray.csproj", "{6DA2E0B9-CCC5-4EE8-8046-E79E980520F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{E03BEDA3-906C-4817-BAE5-EED7D5151B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03BEDA3-906C-4817-BAE5-EED7D5151B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E03BEDA3-906C-4817-BAE5-EED7D5151B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA2E0B9-CCC5-4EE8-8046-E79E980520F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA2E0B9-CCC5-4EE8-8046-E79E980520F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA2E0B9-CCC5-4EE8-8046-E79E980520F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA2E0B9-CCC5-4EE8-8046-E79E980520F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
