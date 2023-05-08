@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\bin\Debug\net7.0\Impares.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\bin\Debug\net7.0\Impares.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\bin\Debug\net7.0\Impares.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\bin\Debug\net7.0\Impares.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\bin\Debug\net7.0\Impares.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\refint\Impares.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\Impares.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Impares\obj\Debug\net7.0\ref\Impares.dll
