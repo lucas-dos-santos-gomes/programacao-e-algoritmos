@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\bin\Debug\net7.0\Anagrama.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\bin\Debug\net7.0\Anagrama.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\bin\Debug\net7.0\Anagrama.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\bin\Debug\net7.0\Anagrama.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\bin\Debug\net7.0\Anagrama.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\refint\Anagrama.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\Anagrama.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Anagrama\obj\Debug\net7.0\ref\Anagrama.dll
