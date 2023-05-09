@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\bin\Debug\net7.0\ProcurarPrimeiraOcorrencia.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\bin\Debug\net7.0\ProcurarPrimeiraOcorrencia.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\bin\Debug\net7.0\ProcurarPrimeiraOcorrencia.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\bin\Debug\net7.0\ProcurarPrimeiraOcorrencia.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\bin\Debug\net7.0\ProcurarPrimeiraOcorrencia.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\refint\ProcurarPrimeiraOcorrencia.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ProcurarPrimeiraOcorrencia.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarPrimeiraOcorrencia\obj\Debug\net7.0\ref\ProcurarPrimeiraOcorrencia.dll
