@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pares", "Pares\Pares.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrama", "Anagrama\Anagrama.csproj", "{9451C903-F9DD-4161-9A6A-1670A4C5CCF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repetidos", "Repetidos\Repetidos.csproj", "{2980D27E-6166-4F50-AFE0-7343804E9C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{9451C903-F9DD-4161-9A6A-1670A4C5CCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9451C903-F9DD-4161-9A6A-1670A4C5CCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9451C903-F9DD-4161-9A6A-1670A4C5CCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2980D27E-6166-4F50-AFE0-7343804E9C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2980D27E-6166-4F50-AFE0-7343804E9C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2980D27E-6166-4F50-AFE0-7343804E9C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2980D27E-6166-4F50-AFE0-7343804E9C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
