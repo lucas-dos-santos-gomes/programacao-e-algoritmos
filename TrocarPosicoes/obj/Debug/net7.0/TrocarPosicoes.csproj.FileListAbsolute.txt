@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\bin\Debug\net7.0\TrocarPosicoes.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\bin\Debug\net7.0\TrocarPosicoes.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\bin\Debug\net7.0\TrocarPosicoes.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\bin\Debug\net7.0\TrocarPosicoes.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\bin\Debug\net7.0\TrocarPosicoes.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\refint\TrocarPosicoes.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\TrocarPosicoes.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\TrocarPosicoes\obj\Debug\net7.0\ref\TrocarPosicoes.dll
