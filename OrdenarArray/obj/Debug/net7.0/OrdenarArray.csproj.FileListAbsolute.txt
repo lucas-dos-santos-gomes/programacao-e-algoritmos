@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\bin\Debug\net7.0\OrdenarArray.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\bin\Debug\net7.0\OrdenarArray.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\bin\Debug\net7.0\OrdenarArray.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\bin\Debug\net7.0\OrdenarArray.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\bin\Debug\net7.0\OrdenarArray.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\refint\OrdenarArray.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\OrdenarArray.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\OrdenarArray\obj\Debug\net7.0\ref\OrdenarArray.dll

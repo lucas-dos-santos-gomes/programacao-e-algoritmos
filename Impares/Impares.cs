@@ -12,7 +12,7 @@ public class Impares
       int randomNumber;
       if(i == 0) {
         do {
-          randomNumber = random.Next(1, 22);
+          randomNumber = random.Next(1, 20);
         } while(randomNumber % 2 == 0);
         printConsole += (" " + randomNumber);
       } else {
