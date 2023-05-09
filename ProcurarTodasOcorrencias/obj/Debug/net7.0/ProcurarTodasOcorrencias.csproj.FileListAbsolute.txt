@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\bin\Debug\net7.0\ProcurarTodasOcorrencias.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\bin\Debug\net7.0\ProcurarTodasOcorrencias.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\bin\Debug\net7.0\ProcurarTodasOcorrencias.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\bin\Debug\net7.0\ProcurarTodasOcorrencias.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\bin\Debug\net7.0\ProcurarTodasOcorrencias.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\refint\ProcurarTodasOcorrencias.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ProcurarTodasOcorrencias.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\ProcurarTodasOcorrencias\obj\Debug\net7.0\ref\ProcurarTodasOcorrencias.dll
