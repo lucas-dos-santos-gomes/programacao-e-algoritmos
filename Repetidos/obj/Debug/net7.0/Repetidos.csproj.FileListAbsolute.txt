@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\bin\Debug\net7.0\Repetidos.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\bin\Debug\net7.0\Repetidos.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\bin\Debug\net7.0\Repetidos.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\bin\Debug\net7.0\Repetidos.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\bin\Debug\net7.0\Repetidos.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\refint\Repetidos.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\Repetidos.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-arrays\Repetidos\obj\Debug\net7.0\ref\Repetidos.dll
