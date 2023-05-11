@@ -40,117 +40,85 @@ Todas as tecnologias utilizadas nesse projeto:
 
 Criar os algoritmos que resolvam os problemas propostos, utilizando vetores.
 
-### <a href="https://dotnetfiddle.net/XllVuh">1. Classe: Media</a>
+### <a href="https://dotnetfiddle.net/kMlLMG">1. Classe: Media</a>
 
-Desenvolva um programa que receba um número inteiro digitado e apresente a tabuada deste número. Utilize o loop <b>for</b>. Sintaxe:
+Faça um programa que receba 4 notas digitadas pelo usuário e calcule a média.
 
->  for (contador, limite, passo) { 
->   //codigo; 
-> } 
-> 
-> for (int i = 0, i<=10, i++) { 
->   //criar aqui a mensagem a com o resultado da tabuada
-> }
+//Declare um array de doubles de 4 posições chamado notas.
+> double[] notas = new double[4];
 
-Ao final, exibir a mensagem:
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/106649118/235416037-36b6ba73-e6c6-4ac0-8e82-201a6f815b1e.png" alt="Tabuada do 5" />
-</div>
+//Faça um for para receber as notas:
+> for (int i = 0; i<notas.Length; i++) { <br>
+>   Console.WriteLine("Informe a " + (i + 1) + "ª nota");<br>
+>   notas[i] = double.Parse(Console.ReadLine());<br>
+> }<br>
 
-### <a href="https://dotnetfiddle.net/h1MDdL">b) Classe SomarValores</a>
+//Calcule a media
 
-Desenvolver um programa que recebe um número inteiro digitado e soma todos os números de 1 ate o numero digitado e apresente o resultado abaixo. Utilize o loop <b>for</b>.
+> double media = (notas[0] + notas[1] + notas[2] + notas[3])/4;
 
-> 5! = 1 + 2 + 3 + 4 + 5 = 15
+//Exiba a média
 
-### <a href="https://dotnetfiddle.net/Xsm6hE">c) Classe Fatorial</a>
+> Console.WriteLine("Sua média foi " + media); <br>
+> Console.ReadKey();
 
-Desenvolver um programa que recebe um número inteiro digitado e multiplique todos os números de 1 ate o numero digitado e apresente o resultado abaixo. Utilize o loop <b>for</b>.
+### <a href="https://dotnetfiddle.net/MvSYw0">2. Classe: Fibonacci</a>
 
-> 5! = 1 * 2 * 3 * 4 * 5 = 120
+Crie um programa que receba por parâmetro um número inteiro de chamado índice e exiba o valor do número de Fibonacci correspondente. Os números de Fibonacci n1, n2, n3... são definidos da seguinte forma:
 
-### <a href="https://dotnetfiddle.net/Xy5iQH">d) Classe TesteDeSoma</a>
+> N[0] = 0, n[1] = 1, n[i] = n[i – 1] + n[i – 2], sendo i>=2
 
-Desenvolva um programa que apresente um a expressão de soma de dois números obtidos randomicamente (de 1 a 10), caso o usuário digite a resposta errada, peça que ele tente novamente, se ele acertar, dê os parabéns. Conte quantas vezes ele acertou e apresente o percentual de acertos a cada jogada. Para sair, peça que ele digite 0. Utilize o loop <b>while</b>. Sintaxe:
+Armazene os números em um vetor. Lembrando que o vetor começa no índice 0, a sequência de Fibonacci também começa com valor 0, mas ele já é o primeiro número da sequência. Assim se o usuário pedir o índice 10, no vetor ele será o n[9].
 
-> while (condição boleana) {
->   //código que será repetido enquanto a condição for verdadeira;
-> }
+> 0, 1, 1, 2, 3, 5, 8, 13, 21, 44
 
-Comando para gerar números aleatórios:
+### <a href="https://dotnetfiddle.net/ngWRrC">3. Classe: InverterPalavra</a>
 
-> Random gerador = new Random();
-> int n1 = gerador.nextInt(10); // O 10 indica que o número gerado deve ser entre 1 e 10.
-> int n2 = gerador.nextInt(10); // Se colocar 100 serão gerados números até 100.
+Faça um programa que receba uma palavra e exiba a palavra digitada e a mesma palavra invertida. 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/106649118/235416157-aff12275-b97f-4705-944d-08aaf6af297c.png" alt="Resultado soma" />
+> Exemplo: Cristiane - enaitsirC
 
-  <img src="https://user-images.githubusercontent.com/106649118/235416526-e6deb9b5-bed0-4ab0-bc97-21f56f7cd7a9.png" alt="Parabéns pelo acerto" />
-</div>
+Converta a palavra recebida em um array de caracteres - <b>ToCharArray()</b> - e percorra este array de trás para frente, pegando as letras e concatenando em uma variável String.
 
-### <a href="https://dotnetfiddle.net/SpRnc1">e) Classe ParOuImpar</a>
+### <a href="https://dotnetfiddle.net/iXGZm6">4. Classe: Palindrome</a>
 
-Faça um programa que o usuário escolha entre as opções “1- Par 2- Impar 0- Sair”. Exiba um número obtido randomicamente. Se ele acertar, conte o ponto para o usuário, senão, ponto para o computador. Exiba o placar a cada jogada. Utilize o loop <b>while</b>.
+Faça um programa que receba uma palavra digitada pelo usuário e verifique se essa palavra é palíndrome. Uma palavra palíndrome é aquela que pode ser lida tanto da direita para a esquerda quanto ao contrário. 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/106649118/235417179-f2874aee-6436-454d-8b68-975cd7388c4c.png" alt="Escolha ímpar, par ou saída" />
+> Exemplo: arara, ovo.
 
-  <img src="https://user-images.githubusercontent.com/106649118/235417363-e22ed698-a1af-4ab2-92f1-64cb1a330015.png" alt="Parabéns, é realmente ímpar!" />
-</div>
+### <a href="https://dotnetfiddle.net/kCLpk6">5. Classe: Impares</a>
 
-### <a href="https://dotnetfiddle.net/nEn0HA">f) Classe MaiorGanha</a>
+Declare um array de inteiros de 10 posições numéricas, preencha com os 10 primeiros números impares, gerados aleatoriamente, e exiba o array obtido.
 
-Faça um programa que exiba um número de 1 a 100 obtido randomicamente para o usuário e pergunte se ele quer apostar. Se sim, gere outro número obtido randomicamente. Se o número recebido pelo usuário for maior, pontue o usuário, se o número apresentado para o computador for maior, pontue o computador, se os números forem iguais, não pontue ninguém. Exiba o placar a cada jogada. Utilize o loop <b>do while</b>.
+### <a href="https://dotnetfiddle.net/WKPPwL">6. Classe: OrdenarArray</a>
 
-> do{
->   //código que será repetido enquanto a condição for verdadeira;
-> } while (condição booleana);
-> 
-> //Caixa de mensagem com opção de sim e não:
-> JOptionPane.showConfirmDialog(null, “Seu número é” + n + “ Apostar?”,”Confirmação”, 0);
+Faça um programa que gere e armazene em um array 10 valores gerados randomicamente e os apresente na ordem em que foram gerados. Ordene os valores e apresente os valores ordenados do menor para o maior.
 
-<div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/106649118/235417843-fe309d6e-c15d-43cf-8eff-bab81c1affdd.png" alt="Aposta contra computador" />
-</div>
+### <a href="https://dotnetfiddle.net/GNyJ6n">7. Classe: TrocarPosicoes</a>
 
-### <a href="https://dotnetfiddle.net/bTZLbh">g) Classe ChuteCerto</a>
+Declare um array de inteiros de 16 posições, preencha com números gerados aleatoriamente, troque os 8 primeiros valores pelos 8 últimos. Mostre o array original e o array final.
 
-Faça um programa que receba um número (de 1 a 10) digitado pelo usuário. Gere um número randomicamente. Se número gerado for igual ao número informado pelo usuário, dê os parabéns e some 1 ponto. Senão, some 1 ponto para o computador. Exiba o placar a cada jogada. Para sair peça que ele digite 0.
+### <a href="https://dotnetfiddle.net/aQJEfS">8. Classe: ProcurarPrimeiraOcorrencia</a>
 
-<div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/106649118/235418241-3e9a7ed0-c432-43fa-bfcc-369a93c3c8bf.png" alt="Digite um número de 1 a 10" />
+Declare um array de inteiros de 20 posições, preencha com números gerados aleatoriamente. Receba um valor digitado pelo usuário e exiba a primeira posição do array onde este valor foi encontrado ou se ele não foi encontrado e o array.
 
-  <img align="center" src="https://user-images.githubusercontent.com/106649118/235418395-16f2d1da-0cb1-4a18-a3dc-1cb18753c421.png" alt="Parabéns! Você acertou o número!" />
-</div>
+### <a href="https://dotnetfiddle.net/Inm3vo">9. Classe: ProcurarTodasOcorrencia</a>
 
-### <a href="https://dotnetfiddle.net/yHpp3Y">h) Classe InverterNumero</a>
+Declare um array de inteiros de 100 posições, preencha com números gerados aleatoriamente. Receba um valor digitado pelo usuário e exiba todos os índices do array onde ocorre o valor digitado ou se ele não foi encontrado. Exiba também o array.
 
-Faça um programa que receba um número entre 100 e 999. Se o número estiver fora desta faixa, exiba uma mensagem ao usuário de número inválido. Caso o número seja válido, exiba o número digitado e o inverso do número digitado. Não converta o número em String para inverter. Utilize variáveis auxiliares do tipo int. Se a pessoa digitar 0, saia do programa. Utilize o loop <b>do while</b> para repetir até que o usuário queira parar. Você vai precisar de pelo menos <b>3 variáveis auxiliares</b>.
+### <a href="https://dotnetfiddle.net/fG6jrH">10. Classe: Pares</a>
 
-<div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/106649118/235418759-c91b0b55-f091-479a-b62b-c7a0974c73ce.png" alt="Digite um número de entre 100 e 999" />
+Declare um array de inteiros de 40 posições, preencha com números aleatórios. Contar e exibir quantos valores pares ele possui e exibir o array gerado.
 
-  <img align="center" src="https://user-images.githubusercontent.com/106649118/235421581-c477b3d6-5dd8-47b2-8c16-8cef8cb77650.png" alt="Número digitado e o inverso dele" />
-</div>
+### <a href="https://dotnetfiddle.net/AAtmsQ">11. Classe: Anagrama</a>
 
-### <a href="https://dotnetfiddle.net/Cmdx8X">i) Classe ProgressaoAritmetica</a>
+Crie um programa que receba duas palavras e verifique se uma palavra é anagrama da outra. Anagramas são palavras formadas pelas mesmas letras arranjadas de forma diferente.
 
-Crie um programa que receba um número digitado pelo usuário, uma razão e o limite. Calcule os termos de  uma P.A (Progressão Aritmética), armazenando esses valores em uma String. Exiba os números obtidos. Progressão aritmética é uma sequência de números somados a um valor constante. Fórmula:
+> Ex.: amor-Roma, América-Iracema, rato-ator.
 
-<div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/106649118/235421984-9e31ba05-1d87-4837-a433-2e6b5458f5ae.png" alt="Fórmula da progressão aritmética" />
-</div>
+### <a href="https://dotnetfiddle.net/UxFhoE">12. Classe: Repetidos</a>
 
-, em que:
-* a¹ é o primeiro termo;
-* r é a razão;
-* O segundo número da progressão é obtido pela fórmula: a2 = a1 + (2 - 1) * r;
-* Exemplo = número recebido 2, razão 2, limite 10: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
-
-<div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/106649118/235422490-a7420ca8-b599-4669-8e2e-127aa0fd439e.png" alt="Exemplo do programa" />
-</div>
+Declare um array de 100 posições, preencha e verifique se existem valores iguais. Escreva os valores que se repetem e quantas vezes ocorre a repetição.
 
 ## Authors
 
@@ -163,4 +131,4 @@ Crie um programa que receba um número digitado pelo usuário, uma razão e o li
 . <br>
 . <br>
 
-#etec #csharp #loops #logica #programacao #projetoloop #algoritmo
+#etec #csharp #loops #logica #programacao #array #algoritmo #vetores #listas
