@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\bin\Debug\net7.0\TabuleiroDamas.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\bin\Debug\net7.0\TabuleiroDamas.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\bin\Debug\net7.0\TabuleiroDamas.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\bin\Debug\net7.0\TabuleiroDamas.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\bin\Debug\net7.0\TabuleiroDamas.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\refint\TabuleiroDamas.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\TabuleiroDamas.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TabuleiroDamas\obj\Debug\net7.0\ref\TabuleiroDamas.dll
