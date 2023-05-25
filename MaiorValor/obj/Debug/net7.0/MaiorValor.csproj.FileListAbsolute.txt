@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\bin\Debug\net7.0\MaiorValor.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\bin\Debug\net7.0\MaiorValor.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\bin\Debug\net7.0\MaiorValor.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\bin\Debug\net7.0\MaiorValor.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\bin\Debug\net7.0\MaiorValor.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\refint\MaiorValor.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\MaiorValor.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorValor\obj\Debug\net7.0\ref\MaiorValor.dll
