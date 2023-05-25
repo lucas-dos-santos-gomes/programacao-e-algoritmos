@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorValor", "MaiorValor\MaiorValor.csproj", "{FFD57208-F286-4075-9B2E-F0112879EA4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabuleiroDamas", "TabuleiroDamas\TabuleiroDamas.csproj", "{5825F04E-2037-4198-A481-B6C257A6C229}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FFD57208-F286-4075-9B2E-F0112879EA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFD57208-F286-4075-9B2E-F0112879EA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFD57208-F286-4075-9B2E-F0112879EA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5825F04E-2037-4198-A481-B6C257A6C229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5825F04E-2037-4198-A481-B6C257A6C229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5825F04E-2037-4198-A481-B6C257A6C229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5825F04E-2037-4198-A481-B6C257A6C229}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
