@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\bin\Debug\net7.0\Diagonal.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\bin\Debug\net7.0\Diagonal.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\bin\Debug\net7.0\Diagonal.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\bin\Debug\net7.0\Diagonal.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\bin\Debug\net7.0\Diagonal.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\refint\Diagonal.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\Diagonal.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Diagonal\obj\Debug\net7.0\ref\Diagonal.dll
