@@ -1,0 +1,15 @@
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\bin\Debug\net7.0\BuscarValor.exe
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\bin\Debug\net7.0\BuscarValor.deps.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\bin\Debug\net7.0\BuscarValor.runtimeconfig.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\bin\Debug\net7.0\BuscarValor.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\bin\Debug\net7.0\BuscarValor.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.csproj.AssemblyReference.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.AssemblyInfoInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.AssemblyInfo.cs
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.csproj.CoreCompileInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\refint\BuscarValor.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\BuscarValor.genruntimeconfig.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\BuscarValor\obj\Debug\net7.0\ref\BuscarValor.dll
