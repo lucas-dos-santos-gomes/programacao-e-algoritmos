@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabuleiroDamas", "Tabuleiro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal", "Diagonal\Diagonal.csproj", "{4AC917F8-581B-4F8B-99CD-36B95A48B773}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorQueDez", "MaiorQueDez\MaiorQueDez.csproj", "{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{4AC917F8-581B-4F8B-99CD-36B95A48B773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC917F8-581B-4F8B-99CD-36B95A48B773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC917F8-581B-4F8B-99CD-36B95A48B773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
