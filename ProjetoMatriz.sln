@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorQueDez", "MaiorQueDez\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XdeUm", "XdeUm\XdeUm.csproj", "{EED9226B-62B9-4274-9608-E44C13039B22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscarValor", "BuscarValor\BuscarValor.csproj", "{AEB6BC21-3458-4E63-A09C-4EBF6343CCA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{EED9226B-62B9-4274-9608-E44C13039B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EED9226B-62B9-4274-9608-E44C13039B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EED9226B-62B9-4274-9608-E44C13039B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB6BC21-3458-4E63-A09C-4EBF6343CCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB6BC21-3458-4E63-A09C-4EBF6343CCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB6BC21-3458-4E63-A09C-4EBF6343CCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB6BC21-3458-4E63-A09C-4EBF6343CCA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
