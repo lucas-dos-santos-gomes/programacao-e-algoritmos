@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal", "Diagonal\Diagon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaiorQueDez", "MaiorQueDez\MaiorQueDez.csproj", "{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XdeUm", "XdeUm\XdeUm.csproj", "{EED9226B-62B9-4274-9608-E44C13039B22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7C8AED3-04D4-4DAC-9CD2-1E862E835695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED9226B-62B9-4274-9608-E44C13039B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED9226B-62B9-4274-9608-E44C13039B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED9226B-62B9-4274-9608-E44C13039B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED9226B-62B9-4274-9608-E44C13039B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
