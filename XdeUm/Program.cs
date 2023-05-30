@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+public class XdeUm {
+  public static void Main(String[] args) {
+    Console.WriteLine("Hello World!");
+  }
+}
