@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj": {}
+    "C:\\Users\\aluno-proa\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj": {
+    "C:\\Users\\aluno-proa\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj",
+        "projectUniqueName": "C:\\Users\\aluno-proa\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj",
         "projectName": "XdeUm",
-        "projectPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj",
-        "packagesPath": "C:\\Users\\Aluno PROA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno PROA\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\obj\\",
+        "projectPath": "C:\\Users\\aluno-proa\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\XdeUm.csproj",
+        "packagesPath": "C:\\Users\\aluno-proa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aluno-proa\\codes\\etec\\programacao-algoritmos\\exercicios-projeto-matriz\\XdeUm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aluno PROA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aluno-proa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

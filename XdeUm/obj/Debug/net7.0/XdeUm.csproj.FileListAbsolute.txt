@@ -13,3 +13,18 @@ C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\
 C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.pdb
 C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.genruntimeconfig.cache
 C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\ref\XdeUm.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\bin\Debug\net7.0\XdeUm.exe
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\bin\Debug\net7.0\XdeUm.deps.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\bin\Debug\net7.0\XdeUm.runtimeconfig.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\bin\Debug\net7.0\XdeUm.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\bin\Debug\net7.0\XdeUm.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.csproj.AssemblyReference.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.AssemblyInfoInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.AssemblyInfo.cs
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.csproj.CoreCompileInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\refint\XdeUm.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\XdeUm.genruntimeconfig.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\XdeUm\obj\Debug\net7.0\ref\XdeUm.dll
