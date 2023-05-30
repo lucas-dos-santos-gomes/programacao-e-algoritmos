@@ -1,0 +1,15 @@
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\bin\Debug\net7.0\MaiorQueDez.exe
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\bin\Debug\net7.0\MaiorQueDez.deps.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\bin\Debug\net7.0\MaiorQueDez.runtimeconfig.json
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\bin\Debug\net7.0\MaiorQueDez.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\bin\Debug\net7.0\MaiorQueDez.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.csproj.AssemblyReference.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.AssemblyInfoInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.AssemblyInfo.cs
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.csproj.CoreCompileInputs.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\refint\MaiorQueDez.dll
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.pdb
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\MaiorQueDez.genruntimeconfig.cache
+C:\Users\Aluno PROA\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\MaiorQueDez\obj\Debug\net7.0\ref\MaiorQueDez.dll
