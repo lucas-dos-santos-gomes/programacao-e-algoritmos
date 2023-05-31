@@ -1,0 +1,15 @@
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\bin\Debug\net7.0\Piramide.exe
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\bin\Debug\net7.0\Piramide.deps.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\bin\Debug\net7.0\Piramide.runtimeconfig.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\bin\Debug\net7.0\Piramide.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\bin\Debug\net7.0\Piramide.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.csproj.AssemblyReference.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.AssemblyInfoInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.AssemblyInfo.cs
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\refint\Piramide.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\Piramide.genruntimeconfig.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\Piramide\obj\Debug\net7.0\ref\Piramide.dll
