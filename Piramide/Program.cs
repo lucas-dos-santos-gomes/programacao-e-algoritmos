@@ -1,30 +1,6 @@
 ﻿using System;
 
 public class Piramide {
-  public static string PrintSpaces(char[,] matriz, int line, int columns, int spaces, int stars) {
-    string printMatriz = "";
-    for(int j = 0; j < columns; j++) {
-      for (int k = 0; k < spaces; k++) {
-        matriz[line, j] = ' ';
-        printMatriz += matriz[line, j];
-      }
-      for (int k = 0; k < stars; k++) {
-        matriz[line, j] = '*';
-        printMatriz += matriz[line, j];
-      }
-      for (int k = 0; k < spaces; k++) {
-        matriz[line, j] = ' ';
-        printMatriz += matriz[line, j];
-      }
-      
-      if(spaces > 0) {
-        spaces--;
-        stars += 2;
-      }
-      printMatriz += "\n";
-    }
-    return printMatriz += "\n";
-  }
   public static void Main(String[] args) {
     int lines = 6;
     int columns = 11;
@@ -32,8 +8,32 @@ public class Piramide {
     int stars = 1;
     char[,] pyramid = new char[lines, columns];
     for(int i = 0; i < lines; i++) {
-      Console.WriteLine(PrintSpaces(pyramid, i, columns, spaces, stars));
-      Console.WriteLine(pyramid[0, 0]);
+      int[] array = AddChar(pyramid, i, columns, spaces, stars);
+      spaces = array[0];
+      stars = array[1];
     }
+  }
+  public static int[] AddChar(char[,] matriz, int line, int columns, int spaces, int stars) {
+    string printMatriz = "\n";
+    int countSpaces = spaces, countStars = stars;
+    for(int j = 0; j < columns; j++) {
+      if(countSpaces > 0) {
+        matriz[line, j] = ' ';
+        countSpaces--;
+      } else {
+        if(countStars > 0) {
+          matriz[line, j] = '*';
+          countStars--;
+        } else {
+          countSpaces = spaces;
+        }
+      }
+      printMatriz += matriz[line, j];
+    }
+    Console.Write(printMatriz);
+    spaces--;
+    stars += 2;
+    int[] array = {spaces, stars};
+    return array;
   }
 }
