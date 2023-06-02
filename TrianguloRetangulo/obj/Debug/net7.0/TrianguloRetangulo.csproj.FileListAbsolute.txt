@@ -1,0 +1,15 @@
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\bin\Debug\net7.0\TrianguloRetangulo.exe
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\bin\Debug\net7.0\TrianguloRetangulo.deps.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\bin\Debug\net7.0\TrianguloRetangulo.runtimeconfig.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\bin\Debug\net7.0\TrianguloRetangulo.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\bin\Debug\net7.0\TrianguloRetangulo.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.csproj.AssemblyReference.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.AssemblyInfoInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.AssemblyInfo.cs
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\refint\TrianguloRetangulo.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\TrianguloRetangulo.genruntimeconfig.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\TrianguloRetangulo\obj\Debug\net7.0\ref\TrianguloRetangulo.dll
