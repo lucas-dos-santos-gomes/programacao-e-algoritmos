@@ -2,17 +2,13 @@
 
 public class Piramide {
   public static void Main(String[] args) {
-    int lines = 6;
-    int columns = 11;
-    int spaces = columns / 2;
-    int stars = 1;
+    int lines = 6, columns = 11;
+    int stars = 1, spaces = columns / 2;
     char[,] pyramid = new char[lines, columns];
     for(int i = 0; i < lines; i++) {
       int[] array = AddChar(pyramid, i, columns, spaces, stars);
       spaces = array[0];
       stars = array[1];
-    }
-    for (int i = 0; i < lines; i++) {
       for (int j = 0; j < columns; j++) {
         Console.Write(pyramid[i, j]);
         if(j == columns - 1) {
