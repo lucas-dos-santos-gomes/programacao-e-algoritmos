@@ -12,9 +12,16 @@ public class Piramide {
       spaces = array[0];
       stars = array[1];
     }
+    for (int i = 0; i < lines; i++) {
+      for (int j = 0; j < columns; j++) {
+        Console.Write(pyramid[i, j]);
+        if(j == columns - 1) {
+          Console.Write('\n');
+        }
+      }
+    }
   }
   public static int[] AddChar(char[,] matriz, int line, int columns, int spaces, int stars) {
-    string printMatriz = "\n";
     int countSpaces = spaces, countStars = stars;
     for(int j = 0; j < columns; j++) {
       if(countSpaces > 0) {
@@ -28,9 +35,7 @@ public class Piramide {
           countSpaces = spaces;
         }
       }
-      printMatriz += matriz[line, j];
     }
-    Console.Write(printMatriz);
     spaces--;
     stars += 2;
     int[] array = {spaces, stars};
