@@ -1,0 +1,15 @@
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\bin\Debug\net7.0\JogoDaVelha.exe
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\bin\Debug\net7.0\JogoDaVelha.deps.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\bin\Debug\net7.0\JogoDaVelha.runtimeconfig.json
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\bin\Debug\net7.0\JogoDaVelha.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\bin\Debug\net7.0\JogoDaVelha.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\refint\JogoDaVelha.dll
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.pdb
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\JogoDaVelha.genruntimeconfig.cache
+C:\Users\aluno-proa\codes\etec\programacao-algoritmos\exercicios-projeto-matriz\JogoDaVelha\obj\Debug\net7.0\ref\JogoDaVelha.dll
