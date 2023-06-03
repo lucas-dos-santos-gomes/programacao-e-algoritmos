@@ -1,7 +1,7 @@
 ﻿using System;
 
 public class Gabarito {
-  private static char Letra(int numero) {
+  private static char Alternativa(int numero) {
     switch(numero) {
       case 1:
         return 'a';
@@ -21,19 +21,25 @@ public class Gabarito {
     Console.Write("\nGabarito: |");
     for(int i = 0; i < gabarito.Length; i++) {
       int numero = random.Next(1, 6);
-      gabarito[i] = Letra(numero);
+      gabarito[i] = Alternativa(numero);
       Console.Write(gabarito[i] + "|");
     }
     Console.WriteLine("\n\n- Respostas -");
     int[,] respostasAlunos = new int[100, gabarito.Length];
     int[] resultados = new int[100];
+    string imprimirResultados = "- Resultados -\n";
     for(int i = 0; i < respostasAlunos.GetLength(0); i++) {
+      string imprimirRespostas = $"Aluno {i + 1}: |";
       int resultado = 0;
       for(int j = 0; j < gabarito.Length; j++) {
         respostasAlunos[i, j] = random.Next(1, 6);
-        resultado += (Letra(respostasAlunos[i, j]) == gabarito[j])? 1 : 0;
+        resultado += ((Alternativa(respostasAlunos[i, j]) == gabarito[j])? 1 : 0);
+        imprimirRespostas += respostasAlunos[i, j] + "|";
       }
       resultados[i] = resultado;
+      imprimirResultados += $"Aluno {i + 1}: {resultado}\n";
+      Console.WriteLine(imprimirRespostas);
     }
+    Console.Write($"\n\n{imprimirResultados}");
   }
 }
