@@ -1,7 +1,9 @@
 ﻿using System;
 
-public class JogoDaVelha {
-  public static void Main() {
-    Console.WriteLine("Hello World!");
+namespace JogoDaVelha {
+  public class Program {
+    public static void Main() {
+      Console.WriteLine("Hello World!");
+    }
   }
 }
